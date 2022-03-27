@@ -9,4 +9,8 @@
 
     <!-- Empty -->
     <string name="no_news">No News</string>
+
+    <string name="facebook_app_id">330990029009116</string>
+    <string name="fb_login_protocol_scheme">fb330990029009116</string>
+    <string name="facebook_client_token">df7f87223c1793343b4c380c660867c1</string>
 </resources>
